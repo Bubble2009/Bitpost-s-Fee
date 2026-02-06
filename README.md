@@ -34,10 +34,10 @@ La piattaforma **BitPost**, per potersi mantenere, chiede una *fee* dell'8% sull
 Queste *fee* possono essere pagate da una o da entrambe le parti.<br>
 In questo testo, voglio appunto mostrare le varie casistiche.
 
-1. [Scenario SHA](#Scneario-con-fee-Condivise) ovvero *fee* equamente condivise;
+1. [Scenario SHA](#Scenario-con-*fee*-condivise) ovvero *fee* equamente condivise;
 2. [Scenario Standard](#Scenario-Standard)
 3. [Scenario **buyer** con necessità di urgenza](#Scenario-Buyer-Frettoloso)
-4. [Scenario con **buyer** molto esoso](#Scneario-Buyer-Esoso)
+4. [Scenario con **buyer** molto esoso](#Scenario-Buyer-Esoso)
 
 Di seguito ci sarà anche una [analisi di questi scenari](#Analisi-Scenari).
 
