@@ -128,7 +128,7 @@ Al termine di questa transazione, il **bitworker** potrà quindi riscattare quan
 ## Analisi Scenari
 Sopra ho riportato gli scenari che si possono trovare su BitPost portandoli al **limite massimo**.
 
-Se un **buyer** inserirà un ordine con [Scenario con **buyer** esoso](#Scneario-Buyer-Esoso), avrà più difficoltà a trovare un **bitworker** disposto a prendersi carico del suo ordine, ma se qualcuno si farà avanti,potrà portarsi a casa un oggetto scontato.
+Se un **buyer** inserirà un ordine con [Scenario con **buyer** esoso](#Scenario-Buyer-Esoso), avrà più difficoltà a trovare un **bitworker** disposto a prendersi carico del suo ordine, ma se qualcuno si farà avanti,potrà portarsi a casa un oggetto scontato.
 
 Nel caso opposto, invece, quanto verrà caricato un ordine con [Scenario **buyer** Frettoloso](#Scenario-Buyer-Frettoloso), sarà molto probabile che in pochissimo tempo un **bitworker** porterà a termine l'incarico.
 
