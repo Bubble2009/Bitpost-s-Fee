@@ -5,7 +5,7 @@
 :link:[**BitPost**](https://www.bitpost.shop) è un progetto nato dalla mente di *Zio Satoshi*.
 
 ## Due parole su BitPost
-Per chi fosse capitato suo queste pagine casualmente, spiego brevemente in cosa consiste :link:[**BitPost**](https://www.bitpost.shop).
+Per chi fosse capitato su queste pagine casualmente, spiego brevemente in cosa consiste :link:[**BitPost**](https://www.bitpost.shop).
 
 *Zio Satoshi* ha scoperto che il mercato aveva delle esigenze che nessuno, fino ad ora, era riuscito a risolvere.<br>
 Da un lato troviamo utenti con le seguenti necessità:
@@ -27,7 +27,7 @@ Il tutto avviene in maniera automatica e la piattaforma interviene solo nella ma
 ## I dubbi
 Recentemente, *Zio Satoshi* ha tenuto una *live* in cui presentava la piattaforma di **BitPost**.<br>
 Dalle domande emerse in *live*, dai messaggi sul gruppo e anche dalle domande che mi hanno posto durante un SatoshiSpritz, ho compreso che il punto su cui si fa più confusione sono le *fee* che verranno applicate. <br>
-Spero con questo scritto di chiare il tutto.
+Spero con questo scritto di chiarire il tutto.
 
 # Le Fee
 La piattaforma **BitPost**, per potersi mantenere, chiede una *fee* dell'8% sulla transazione.<br>
